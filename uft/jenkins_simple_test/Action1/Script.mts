@@ -5,4 +5,3 @@ Browser("Log in - Performance Technolog").Page("Home - Performance Technologie")
 Browser("Log in - Performance Technolog").Page("Home - Performance Technologie").WebButton("WebButton").Click @@ script infofile_;_ZIP::ssf5.xml_;_
 Browser("Log in - Performance Technolog").Page("Home - Performance Technologie").Link("Log Out").Click @@ script infofile_;_ZIP::ssf6.xml_;_
 'test
-'mikrouli geia
